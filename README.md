@@ -2,6 +2,8 @@
 
 Astrododge is a 3D survival game built in Unity where the player must avoid incoming enemy robots while managing health and score over time.
 
+Link to Play: https://dr8tt0.itch.io/astrododge
+
 ## Gameplay Overview
 
 The player controls a spinning UFO navigating within a block-based arena. Spherical enemy robots continuously move toward the player. Survival time determines score.
